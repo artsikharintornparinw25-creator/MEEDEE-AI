@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MEEDEE-AI",
+  "description": "An immersive creative storyteller that transforms visuals into cinematic narratives with atmospheric AI audio.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
